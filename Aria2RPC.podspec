@@ -16,5 +16,5 @@ Pod::Spec.new do |s|
 
   s.frameworks = "Foundation"
   s.dependency "Starscream", "~> 3.1"
-  s.dependency "SwiftyJSON", "~> 5.0"
+  s.dependency "SwiftyJSON", "~> 4.0"
 end
